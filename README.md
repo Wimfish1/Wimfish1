@@ -1,3 +1,5 @@
-- Wimfish1
+- Wimfish1 🐟
 
-- Minecraft + Web Developer
+- Minecraft 🏹
+- Web Developer 🕸️
+- Python Developer 🐍
