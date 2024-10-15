@@ -1,5 +1,1 @@
-- Wimfish1 🐟
-
-- Minecraft 🏹
-- Web Developer 🕸️
-- Python Developer 🐍
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wimfish1)](https://github.com/anuraghazra/github-readme-stats)
