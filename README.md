@@ -1,1 +1,1 @@
-yeah idk what to put here
+Computer Science student currently studying A-Level computer science, business studies, geography
